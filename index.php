@@ -24,7 +24,7 @@
     <meta name="description" content="Premium Quality and Responsive UI for Dashboard.">
     <meta name="author" content="ThemePixels">
 
-    <title>CertiCIIP</title>
+    <title>CertiCIIP::Acceso</title>
 
     <link href="public/lib/font-awesome/css/font-awesome.css" rel="stylesheet">
     <link href="public/lib/Ionicons/css/ionicons.css" rel="stylesheet">
@@ -38,7 +38,7 @@
 
       <div class="login-wrapper wd-300 wd-xs-350 pd-25 pd-xs-40 bg-white rounded shadow-base">
         <div class="signin-logo tx-center tx-28 tx-bold tx-inverse"><span class="tx-normal">[</span> CertiCIIP <span class="tx-normal">]</span></div>
-        <div class="tx-center mg-b-60">Certificados de cursos realizados en Centro Internacional de Inversion Productiva</div>
+        <div class="tx-center mg-b-30">Certificados de cursos realizados en Centro Internacional de Inversion Productiva</div>
 
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Usuario">
